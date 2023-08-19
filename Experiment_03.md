@@ -15,10 +15,10 @@ Roll: 1810005
 Department: Electrical and Computer Engineering
 
 
-## Submitted to:
-Hafsa Binte Kibria
-Lecturer,
-Dept. of ECE, RUET.
+## Submitted by:
+### Name: Ruhina Tabasshum Prome
+### Roll: 1810005                                               
+### Department: Electrical and Computer Engineering
 
 
 
