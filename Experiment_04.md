@@ -1,3 +1,32 @@
+![image](https://github.com/ruhina21/ECE_4124/assets/108121106/8f5b9c2f-9087-4f4b-8b50-7e0f9b328a2f)
+
+
+# Lab Report-04
+
+## Course no. ECE 4124
+## Course Title:  Digital Signal Processing Sessional
+
+
+
+
+## Submitted by:
+Name: Ruhina Tabasshum Prome
+Roll: 1810005                                               
+Department: Electrical and Computer Engineering
+
+
+## Submitted by:
+### Name: Ruhina Tabasshum Prome
+### Roll: 1810005                                               
+### Department: Electrical and Computer Engineering
+
+
+
+### Date of Submission: 22/05/2023
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Experimennt No. 04
 ## Theory
 The Z-transform (ZT) is a mathematical tool which is used to convert the difference equations in time domain into the algebraic equations in z-domain.
